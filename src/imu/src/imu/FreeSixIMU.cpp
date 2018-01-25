@@ -8,9 +8,6 @@
 // initialized. If it hasn't, the RoboticsCape library will not work properly. Run the i2c_init
 // method as defined above before use.
 
-
-#include "imu/ADXL345.h"
-#include "imu/ITG3200.h"
 #include "imu/FreeSixIMU.h"
 #include <sys/time.h>
 
